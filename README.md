@@ -3,4 +3,4 @@ Various implemented algorithms and data structures from Russel &amp; Norvigs "In
 
 ## Machine Learning
 ### Decision Three algorithm
-Implementation of a general decision three algorithm. By running the script it trains and test on the data located in the Assignment_4_data folder and prints the resulting three learned.
+Implementation of a general decision three algorithm. By running the script it trains and test on the data located in the Assignment_4_data folder and prints the resulting three learned. Also prints the precision on the test data.
